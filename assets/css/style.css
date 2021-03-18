@@ -1,0 +1,49 @@
+body {
+    background-color: #1e1e22;
+    margin: 3rem 2rem 2rem;
+}
+
+p, a, h1, h2, ul {
+    font-size: 25px;
+    color: darkgray;
+    font-family: lucida Bright;
+    width: 615px;
+}
+
+article {
+    padding-top: 10px;
+}
+
+h1, h2 {
+    margin: 10px 5px 15px 35px;
+    color: white;
+    font-size: 25px;
+    font-family: "Arial Narrow";
+    font-weight: 700;
+}
+
+h1 {
+    margin: 10px 5px 0px 35px;
+}
+
+.gif {
+    width: 100px;
+    height: 100px;
+    margin: 0px 0px 35px 35px;
+    border-radius: 50px;
+}
+
+p {
+    margin: 0px 35px 35px;
+}
+
+a {
+    font-size: 25px;
+    color: darkgray;
+}
+
+ul {
+    margin: 0px 0px 35px 10px;
+    font-size: 25px;
+    color: darkgray;
+}
